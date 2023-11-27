@@ -1,0 +1,4 @@
+.env
+.venv/
+test_environment.py
+/data/raw/
